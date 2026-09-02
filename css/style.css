@@ -186,3 +186,61 @@ body {
     }
 
 }
+/* Events Page */
+
+.events-page {
+    min-height: 100vh;
+    padding: 160px 0 80px;
+}
+
+
+.page-tag {
+    color: #bef264;
+
+    font-size: 13px;
+    font-weight: bold;
+
+    letter-spacing: 3px;
+
+    margin-bottom: 20px;
+}
+
+
+.page-title {
+    font-size: clamp(55px, 8vw, 110px);
+
+    line-height: 1;
+}
+
+
+.page-title span {
+    color: #bef264;
+}
+
+
+.page-description {
+    max-width: 600px;
+
+    margin-top: 30px;
+
+    color: rgba(255, 255, 255, 0.7);
+
+    font-size: 17px;
+
+    line-height: 1.7;
+}
+
+
+.events-section {
+    margin-top: 80px;
+}
+
+
+.events-section h2 {
+    font-size: 35px;
+}
+
+
+.events-container {
+    margin-top: 35px;
+}
